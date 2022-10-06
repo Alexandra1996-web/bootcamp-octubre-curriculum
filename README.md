@@ -1,2 +1,5 @@
-# curriculo_octubre 
-Archivos de las clases a dictar en Penguin Academy en base a otros bootcamp
+# Preparcion curriculo bootcamp octubre 
+
+Archivos de practicas y curricullum del bootcamp Fundamentos de python + taller de flask con Tailwindcss.
+
+Trainer: Alexandra Caceres - Edicion Octubre
