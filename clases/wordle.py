@@ -1,4 +1,4 @@
-import os
+import os #https://www.geeksforgeeks.org/python-os-system-method/, para estetica
 
 def verificar_palabra_ingresada(palabra_a_encontrar, palabra_ingresada):
     # Crear una lista vacía para el resultado.
@@ -46,7 +46,7 @@ intentos = 6
 
 grilla = []
 
-os.system('cls')
+os.system('clear')
 print("Bienvenido a Wordle!")
 
 while intentos > 0:
@@ -54,7 +54,7 @@ while intentos > 0:
     palabra_ingresada = input("Ingrese una palabra: ")
     intentos = intentos - 1
 
-    os.system('cls')
+    os.system('clear')
     if(len(palabra_ingresada) != cantidad_de_letras):
         print("La palabra ingresada no tiene la cantidad de letras correcta.")
         print(" Ingresar una palabra con", cantidad_de_letras, "letras.")
