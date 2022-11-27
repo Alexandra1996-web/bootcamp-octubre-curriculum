@@ -1,3 +1,0 @@
-https://rickandmortyapi.com/api/character (API Rick and Morty)
-
-https://github.com/kedavema/rick-and-morty-flask (GitHub repo)
