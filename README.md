@@ -1,5 +1,7 @@
 # Preparacion curriculo bootcamp octubre 
 
-Archivos de practicas y curricullum del bootcamp Fundamentos de python + taller de flask con Tailwindcss.
+Archivos de practicas y curricullum del bootcamp Fundamentos de python 
 
-Trainer: Alexandra Caceres - Edicion Octubre
+Guion de clase 
+
+Trainer: Alexandra Caceres
